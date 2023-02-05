@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "pkief.material-icon-theme",
+    "rocketseat.theme-omni",
+    "ritwickdey.liveserver",
+    "solnurkarim.html-to-css-autocompletion",
+    "ms-azuretools.vscode-docker",
+    "bradlc.vscode-tailwindcss"
+  ]
+}
